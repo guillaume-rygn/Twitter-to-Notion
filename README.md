@@ -15,11 +15,17 @@ const DATABASE_ID = //add your Notion Database_ID here
 Go on your settings page menu, click on "Add connections" then click on "Manage connections"
 ![Demo](./images/step1.png)
 &nbsp;
+&nbsp;
+
 Click on "My Connections" menu and click on "Develop or manage integrations"
 ![Demo](./images/step2.png)
 &nbsp;
+&nbsp;
+
 Click on "New integration" give a name and click on "Submit". Now you have yout Notion API Key
 &nbsp;
+&nbsp;
+
 For the Notion Database_ID go to your notion page and copy on your url the code between "notion.so/" and "?v="  
 ![Demo](./images/step3.png)
 
