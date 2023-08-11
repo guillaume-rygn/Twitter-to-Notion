@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@notionhq/client": "^2.2.3",
+    "axios": "^1.4.0",
+    "extpay": "^3.0.7"
+  },
+  "name": "twitter-bookmark",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "content.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillaume-rygn/Twitter-Bookmark-to-Notion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillaume-rygn/Twitter-Bookmark-to-Notion/issues"
+  },
+  "homepage": "https://github.com/guillaume-rygn/Twitter-Bookmark-to-Notion#readme",
+  "description": ""
+}
