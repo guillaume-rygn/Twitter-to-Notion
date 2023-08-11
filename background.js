@@ -1,5 +1,5 @@
-const NOTION_API_TOKEN ='secret_XR9kcJnnDOI3ctOE6TM1C5hMFai2aZHpeLR23kpaeR1'
-const DATABASE_ID = '324ece999c3d4491998663ee7f4d81d7';
+const NOTION_API_TOKEN =//add your Notion API Key here
+const DATABASE_ID = //add your Notion Database_ID here
 
 const headers = {
     Authorization: `Bearer ${NOTION_API_TOKEN}`,
